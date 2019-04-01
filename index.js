@@ -34,14 +34,9 @@ function iLoveTheBeatles(num){
   var arr = []
   do{
     arr.push("I love the Beatles!")
-//<<<<<<< HEAD
     num++
   } while(num < 15);
   return arr
 }
 
 iLoveTheBeatles(10)
-=======
-  } while(num < 15);
-}
->>>>>>> 4842352652211cfc9a1ddc8be99ea3ddfc681d54
